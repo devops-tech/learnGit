@@ -1,2 +1,3 @@
 This is a file from feature branch.
 Adding a second line.
+Changes made in upstream.
